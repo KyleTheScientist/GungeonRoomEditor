@@ -1,0 +1,66 @@
+TODO
+	-BUGS
+		+ Room doesn't save as .room
+		+ Keyboard shortcut
+	- Sprint 1 (Ends saturday)
+		+ Add undo, redo to edit dropdown    					 2
+		+ Add grid toggle                                        2
+		+ On tile button click, switch to brush if on eraser     1
+		+ Add room weight to properties							 1
+		+ Misc. GungeonAPI BS									 3
+	- Sprint 2
+		+ Add canvas resize/trim   				6
+		+ Add save and save as shortcuts     	1
+		+ Line tool								4
+		+ Rect tool								4
+		+ Misc. GungeonAPI BS					3
+	- Sprint 3
+		+ Symmetry								4
+		+ Add placeables						12
+
+	
+	-Shortcuts
+		Undo | Ctrl+Z
+		Redo | Ctrl+Shift+Z
+		Copy/Paste | Ctrl+C and V
+		Save | Ctrl+S
+		Save as | Ctrl+Shift+S
+	-Editor
+		+ Side-walls
+	-Palette
+		+ Verify placable scales
+		+ Add trap tiles
+			+ Dead blow
+		+ Add map for room interactables (tables/barrels)
+		+ Add map for interactables (NPCs / Shrines)
+		+ Add option to import custom tiles with GUID/Image?
+
+	-Tool Options
+		+ Tools:  
+			o Line
+			o Box
+			o Circle
+			o Select, Copy/Paste
+	-Options Bar
+		+ File
+			o Save
+				> Traps
+		+ Edit
+			o Scale
+			o Resize Canvas
+			o Trim canvas
+			o Undo/Redo
+			o Symmetry
+			o Grid
+		+ Room
+			o Room Weight
+			o Room style
+		+ Options
+			o Settings (color?)
+			o Shortcuts?
+		+ Help
+			o About
+				> Add PSnake to the Contributors
+				> Retrash
+				> Nevernamed
+		
